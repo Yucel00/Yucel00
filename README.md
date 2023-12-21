@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyberark.com%2Fresources%2Fblog%2Fsecure-developer-workstations-without-slowing-them-down&psig=AOvVaw2kU9be7g8qRa0lLHMY0cP3&ust=1703272853489000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj59f2foYMDFQAAAAAdAAAAABAD)
+ [![MasterHead](https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer.jpg)
 <h1 align="center">Hi 👋, I'm Yücel Kandaş</h1>
 <h3 align="center">A passionate data scientist</h3>
 
