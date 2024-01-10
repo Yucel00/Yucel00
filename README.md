@@ -1,4 +1,4 @@
- [![MasterHead](https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer.jpg)
+![MasterHead](https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer.jpg)
 <h1 align="center">Hi 👋, I'm Yücel Kandaş</h1>
 <h3 align="center">A passionate data scientist</h3>
 
